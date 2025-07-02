@@ -15,22 +15,22 @@ More demos and information can be found in the `demos` folder, or by viewing the
 #### Login & Dashboard
 
 <p align="center">
-  <img src="https://github.com/kkosolap/expviztool/blob/main/demos/login.gif" alt="login" width="46%">
-  <img src="https://github.com/kkosolap/expviztool/blob/main/demos/dashboard.gif" alt="dashboard" width="46%">
+  <img src="https://github.com/kkosolap/expviztool/blob/main/demos/login.gif" alt="login" width="49%">
+  <img src="https://github.com/kkosolap/expviztool/blob/main/demos/dashboard.gif" alt="dashboard" width="49%">
 </p>
 
 #### Creating Experiments & Plates
 
 <p align="center">
-  <img src="https://github.com/kkosolap/expviztool/blob/main/demos/create%20experiment.gif" alt="create experiment" width="46%">
-  <img src="https://github.com/kkosolap/expviztool/blob/main/demos/create%20plates.gif" alt="create plate" width="46%">
+  <img src="https://github.com/kkosolap/expviztool/blob/main/demos/create%20experiment.gif" alt="create experiment" width="49%">
+  <img src="https://github.com/kkosolap/expviztool/blob/main/demos/create%20plates.gif" alt="create plate" width="49%">
 </p>
 
 #### Plate Attributes & Audit Log
 
 <p align="center">
-  <img src="https://github.com/kkosolap/expviztool/blob/main/demos/attributes.gif" alt="plate attributes" width="46%">
-  <img src="https://github.com/kkosolap/expviztool/blob/main/demos/audit%20log.gif" alt="audit log" width="46%">
+  <img src="https://github.com/kkosolap/expviztool/blob/main/demos/attributes.gif" alt="plate attributes" width="49%">
+  <img src="https://github.com/kkosolap/expviztool/blob/main/demos/audit%20log.gif" alt="audit log" width="49%">
 </p>
 
 ---
