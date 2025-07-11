@@ -38,7 +38,7 @@ More demos and information can be found in the `demos` folder, or by viewing the
 ### Tech Stack  
 - Frontend: React (MUI), TypeScript  
 - Backend: Go  
-- Database: MySQL  
+- Database: PostgreSQL  
 - DevOps: Docker, AWS (EC2, RDS, Secrets Manager)
 - Tools: GitHub, Postman, VSCode
 
