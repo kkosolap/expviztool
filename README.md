@@ -2,7 +2,7 @@
 
 ## UCSC CSE 115B/C Software Design Project I & II  
 *Product Owner: ArsenalBio – Fabio Ingrao & Mary Chua*  
-*Developers: Violet Solorio Gaitan, Margaret Heathcote, Sakshi Konnur, [Katherine Kosolapova](https://www.linkedin.com/in/kkosolap/), Jia Cheng Liu, Arnav Nepal, Eric Phuong, Navaneeth Srinivasan, Diego Yanez, Simon Zhao*
+*Developers: Violet Solorio Gaitan, Margaret Heathcote, Sakshi Konnur, [Katherine Kosolapova](https://www.linkedin.com/in/kkosolap/), Jia Cheng Liu, Arnav Nepal, Eric Phuong, [Navaneeth Srinivasan](https://www.linkedin.com/in/navaneeth-srinivasan-ucsc/), Diego Yanez, Simon Zhao*
 
 ---
 
